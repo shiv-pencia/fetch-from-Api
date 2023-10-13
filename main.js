@@ -64,4 +64,4 @@ document.getElementById('generate-btn').addEventListener('click', () => {
     RandomUser.fetchFromAPI();
 });
 
-//RandomUser.fetchFromAPI();
+RandomUser.fetchFromAPI();
